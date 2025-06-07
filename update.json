@@ -1,7 +1,7 @@
 {
   "updates": {
     "windows": {
-      "open-url": "",
+      "open-url": "https://github.com/sylsususu/zkardUpdateHtp/tree/main",
       "latest-version": "1.0",
       "download-url": "https://github.com/sylsususu/zkardUpdateHtp/blob/main/IMCSApp.exe",
       "changelog": "This is a zkard exe",
